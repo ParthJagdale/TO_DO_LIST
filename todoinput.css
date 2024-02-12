@@ -1,0 +1,21 @@
+.Main
+{
+    color: aquamarine;
+}
+.add-btn{
+    width:40px;
+    height:40px;
+    border-radius: 50%;
+    border:none;
+    background-color:#316fc1;
+    color: white;
+    font-weight: bolder;
+    font-size: larger;
+    margin-left: 10px;  
+    cursor: pointer;
+    box-shadow: 0px 5px 10px rgba(11, 10, 10, 0.3);
+    transition: 0.3s;
+  }
+  .add-btn:active{
+    box-shadow: none;
+  }
